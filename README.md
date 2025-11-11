@@ -70,18 +70,6 @@ DAX (Data Analysis Expressions)
 
 Design UX/UI aplicado a dashboards
 
-📁 Projeto-PowerBI-Relatorio-Financeiro
-│
-├── 📄 dio-projeto-powerBi6.pdf       → Relatório final exportado
-├── 🧾 ementa-desafio.docx            → Instruções e objetivos do desafio
-└── 📘 README.md                      → Documentação do projeto
-
 ---
 
 
-## 👨‍💻 Autor
-Diego Marayo
-🎓 Estudante de Engenharia de Software — 2º semestre
-💼 Foco em Power BI, Python e Engenharia de Dados
-🔗 LinkedIn
- | GitHub
