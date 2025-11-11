@@ -76,6 +76,7 @@ Design UX/UI aplicado a dashboards
 ├── 📄 dio-projeto-powerBi6.pdf       → Relatório final exportado
 ├── 🧾 ementa-desafio.docx            → Instruções e objetivos do desafio
 └── 📘 README.md                      → Documentação do projeto
+```
 
 
 ## 👨‍💻 Autor
